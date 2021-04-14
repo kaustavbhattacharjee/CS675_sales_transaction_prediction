@@ -1,0 +1,10 @@
+python3 project3.py Sales_Transactions_Dataset_Weekly.csv
+
+
+
+
+
+python3 project2.py test.data test.trainlabels.0 0.001 0.000000001
+
+For checking accuracy:
+python3 accuracy.py test.csv test_true.csv
