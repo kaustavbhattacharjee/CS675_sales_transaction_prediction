@@ -1,7 +1,7 @@
 # Sales Transaction Prediction
 
 ## Objective
-he weekly sales transaction dataset (posted here 
+The weekly sales transaction dataset (posted here 
 https://web.njit.edu/~usman/courses/cs675_spring20/Sales_Transactions_Dataset_Weekly.csv) 
 shows weekly sales of over 800 items across a year. Your task is to predict the 
 final week's sales from the previous values for each item in the dataset. Report 
@@ -34,10 +34,14 @@ For example if your ucid is abc12 then copy your programs into
 Your completed program is due before 1pm May 4th 2020
 
 ## How to run this program
+```
 python3 project3.py Sales_Transactions_Dataset_Weekly.csv
+```
 
 ## Proof of Submission
 Mean Square Error (MSE) = **23.2**
+
+
 ![](Proof_of_Submission_Project3.png)
 
 
